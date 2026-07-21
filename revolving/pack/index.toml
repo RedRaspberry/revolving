@@ -715,6 +715,11 @@ hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
 metafile = true
 
 [[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "4624048463f5510d97bc433bb758ed6fe2ae08870981d871888b112dabd54a46"
+metafile = true
+
+[[files]]
 file = "mods/dashpanels.pw.toml"
 hash = "07ed4f948b6d9829a28247f9f92774e823b5e26a0be7a8647fc745a33b826762"
 metafile = true
@@ -1114,6 +1119,11 @@ hash = "5132524166877845f1966538b7db38264e892cdeecdcd08dae99cd056803c7df"
 metafile = true
 
 [[files]]
+file = "mods/packmenu.pw.toml"
+hash = "556d61abbb49eab961c9d70b55ccdc10de455b4d7454a78ec6a99883cbeea7d9"
+metafile = true
+
+[[files]]
 file = "mods/paragliders.pw.toml"
 hash = "abfaa1603e21bbcd94e8464c460ccb29a465f8b0ced64abdc661c79c03bab395"
 metafile = true
@@ -1126,6 +1136,11 @@ metafile = true
 [[files]]
 file = "mods/petrols-parts.pw.toml"
 hash = "c2d810fc89e452fccdcf9c77df5643f8a296ef307a1f19a34f135adc72787868"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "a80d243759a5998d1f61cab61a9769526c21e1a9ac2f328ec1f213bb97311bfe"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Custom Window Title"
+filename = "CustomWindowTitle-1.21.4+v1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db89df2f80e8842b4ad0ed634d59f35b53f5061b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6273384
+project-id = 360673
