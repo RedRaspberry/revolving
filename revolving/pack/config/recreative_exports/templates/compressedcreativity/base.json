@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "compressedcreativity:base"
+    ],
+    "icon": "compressedcreativity:rotational_compressor",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

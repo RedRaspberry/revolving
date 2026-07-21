@@ -1,0 +1,13 @@
+name = "packwiz-test"
+author = "moumse"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c9d8613fa874c4f7da737a73e5ef76885c80ca2e03de4ca7466b32ed2eb4128a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.236"

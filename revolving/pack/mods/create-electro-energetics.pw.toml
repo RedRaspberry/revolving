@@ -1,0 +1,8 @@
+name = "Create:Electro_Energetics"
+filename = "electroenergetics-1.21.1-1.1.2-120.jar"
+side = "both"
+
+[download]
+url = "https://github.com/george8188625/Create-Electro-Energetics/releases/download/autobuild-120/electroenergetics-1.21.1-1.1.2-120.jar"
+hash-format = "sha256"
+hash = "c77c52be4fd9a30e15feb669a48dbb0e57a723db97158e1ec460693ee36eb404"

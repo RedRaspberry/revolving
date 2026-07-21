@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "kineticgrip:main"
+    ],
+    "icon": "kineticgrip:grip_handle",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

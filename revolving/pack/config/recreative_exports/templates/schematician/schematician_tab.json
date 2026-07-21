@@ -1,0 +1,14 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "schematician:schematician_tab"
+    ],
+    "icon": "schematician:schematicians_goggles",
+    "remove_items": [],
+    "add_items": [
+      "schematician:schematicians_goggles"
+    ],
+    "order": []
+  }
+]

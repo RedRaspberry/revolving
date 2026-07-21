@@ -1,0 +1,16 @@
+name = "Woolen It Be Nice"
+filename = "woolen_it_be_nice-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6eb1bbe74d77e02d00e4c81a611ae6cfc9b70a47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8336282
+project-id = 401005
+
+[option]
+optional = true

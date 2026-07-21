@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "createdeco:props_tab"
+    ],
+    "icon": "createdeco:green_brass_lamp",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

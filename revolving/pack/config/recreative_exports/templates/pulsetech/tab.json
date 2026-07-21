@@ -1,0 +1,40 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "pulsetech:tab"
+    ],
+    "icon": "pulsetech:pattern_detector",
+    "remove_items": [],
+    "add_items": [
+      "pulsetech:console",
+      "pulsetech:green_console",
+      "pulsetech:red_console",
+      "pulsetech:indigo_console",
+      "pulsetech:white_console",
+      "pulsetech:pattern_detector",
+      "pulsetech:pattern_emitter",
+      "pulsetech:number_monitor",
+      "pulsetech:number_emitter",
+      "pulsetech:analog_number_emitter",
+      "pulsetech:scope",
+      "pulsetech:controller",
+      "pulsetech:scanner",
+      "pulsetech:screen",
+      "pulsetech:cannon",
+      "pulsetech:orb",
+      "pulsetech:program_emitter",
+      "pulsetech:number_bulb",
+      "pulsetech:retriever",
+      "pulsetech:storage_modem",
+      "pulsetech:datasheet",
+      "pulsetech:data_cell",
+      "pulsetech:debugger",
+      "pulsetech:remote_console",
+      "pulsetech:pulse_module",
+      "pulsetech:protocol_module",
+      "pulsetech:storage_module"
+    ],
+    "order": []
+  }
+]

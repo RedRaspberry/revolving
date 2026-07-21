@@ -1,0 +1,13 @@
+name = "Distant Dangers"
+filename = "distantdangers-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a284ffdf819995d2d18b59a075443b563ff7ab4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7180685
+project-id = 1377635

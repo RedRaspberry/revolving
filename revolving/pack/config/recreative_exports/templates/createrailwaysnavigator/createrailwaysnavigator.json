@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "createrailwaysnavigator:createrailwaysnavigator"
+    ],
+    "icon": "createrailwaysnavigator:navigator",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

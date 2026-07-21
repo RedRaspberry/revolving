@@ -1,0 +1,13 @@
+name = "Would"
+filename = "would-1.21.1-0.1.4-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D2IDbjeu/versions/tCzVXIHV/would-1.21.1-0.1.4-neoforge.jar"
+hash-format = "sha512"
+hash = "3b4aadca2f5913ed79828256f2a0e3ea47926cfb123d62b48e822343ed258069c226de8675c3aadb59c78662f1c42f033335042bb3e101df66e3f3c50a1bad34"
+
+[update]
+[update.modrinth]
+mod-id = "D2IDbjeu"
+version = "tCzVXIHV"

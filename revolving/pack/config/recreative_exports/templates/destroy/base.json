@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "destroy:base"
+    ],
+    "icon": "destroy:logo",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

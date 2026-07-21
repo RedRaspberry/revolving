@@ -1,0 +1,13 @@
+name = "EMI Recipe Sharing (EMIRS)"
+filename = "emirecipesharing-neoforge-1.21.1-1.0.1-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c9f5a07f4d0fb90bcaf5abefebe832dd39a2648"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8354025
+project-id = 1587795

@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "tfmg:tfmg_decoration"
+    ],
+    "icon": "tfmg:concrete",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

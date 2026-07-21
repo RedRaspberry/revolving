@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "wands:wands_tab"
+    ],
+    "icon": "wands:diamond_wand",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

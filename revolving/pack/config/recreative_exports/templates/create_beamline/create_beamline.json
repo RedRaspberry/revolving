@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "create_beamline:create_beamline"
+    ],
+    "icon": "create_beamline:smart_display_link",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

@@ -1,0 +1,13 @@
+name = "MoreTraffic"
+filename = "moretraffic-0.2.5-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4693fd541beaffda8f867dedfcb88272b600f20"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8274064
+project-id = 1487775

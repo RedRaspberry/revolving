@@ -1,0 +1,13 @@
+name = "Create: Buzzy Bees"
+filename = "cbbees-1.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe6d154e352d8c1ed45230c646f02c6ab7dab187"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8009748
+project-id = 1491979

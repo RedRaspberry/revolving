@@ -1,0 +1,26 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "moumsemod:deco_blocks"
+    ],
+    "icon": "moumsemod:cobbled_andesite",
+    "remove_items": [],
+    "add_items": [
+      "moumsemod:mewo_block",
+      "moumsemod:cobbled_andesite",
+      "moumsemod:cobbled_andesite_wall",
+      "moumsemod:cobbled_andesite_slab",
+      "moumsemod:cobbled_andesite_stair",
+      "moumsemod:cobbled_granite",
+      "moumsemod:cobbled_granite_wall",
+      "moumsemod:cobbled_granite_slab",
+      "moumsemod:cobbled_granite_stair",
+      "moumsemod:cobbled_diorite",
+      "moumsemod:cobbled_diorite_wall",
+      "moumsemod:cobbled_diorite_slab",
+      "moumsemod:cobbled_diorite_stair"
+    ],
+    "order": []
+  }
+]

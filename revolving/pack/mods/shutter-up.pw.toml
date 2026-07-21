@@ -1,0 +1,13 @@
+name = "Shutter Up!"
+filename = "shutterup-neoforge-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3425986aac1c6473f1d92dd3fb3220e91c523bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7896451
+project-id = 1420451

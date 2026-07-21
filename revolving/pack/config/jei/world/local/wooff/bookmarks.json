@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"destroy:gold_infused_beetroot_ashes"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"destroy:mashed_potato"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"destroy:copper_infused_beetroot_ashes"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

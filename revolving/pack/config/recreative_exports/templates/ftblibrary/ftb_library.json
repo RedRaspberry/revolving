@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "ftblibrary:ftb_library"
+    ],
+    "icon": "ftblibrary:icon_item",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

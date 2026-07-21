@@ -1,0 +1,13 @@
+name = "Create: UniFE"
+filename = "unife-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cd3648ca5e3c40e52f7bb82310af3e423a97233"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8065069
+project-id = 1486450

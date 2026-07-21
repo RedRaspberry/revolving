@@ -1,0 +1,13 @@
+name = "Get Creative"
+filename = "get_creative-1.21.1-2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7eb05ce4a937420867ec0901c41a3b54dc84da51"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8210920
+project-id = 1509618

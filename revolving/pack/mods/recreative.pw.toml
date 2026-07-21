@@ -1,0 +1,13 @@
+name = "Recreative"
+filename = "recreative-neoforge-1.21.1-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8871a2d69ae6655446a97f52d181efc537adad8a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8081377
+project-id = 1513300

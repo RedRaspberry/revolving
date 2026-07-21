@@ -1,0 +1,14 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "moumsemod:ingredients"
+    ],
+    "icon": "moumsemod:mewo_ingot",
+    "remove_items": [],
+    "add_items": [
+      "moumsemod:mewo_ingot"
+    ],
+    "order": []
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "escalated:base"
+    ],
+    "icon": "escalated:metal_walkway_steps",
+    "remove_items": [],
+    "add_items": [
+      "escalated:metal_walkway_steps",
+      "escalated:wooden_walkway_steps"
+    ],
+    "order": []
+  }
+]

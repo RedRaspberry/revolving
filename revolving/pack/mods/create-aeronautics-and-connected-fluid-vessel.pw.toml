@@ -1,0 +1,13 @@
+name = "Create Aeronautics and Connected Fluid Vessel Compatability"
+filename = "aeroconnectedfluidvessel-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce5be5d77836c966cc99d690b108409537ca1171"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8171965
+project-id = 1559009

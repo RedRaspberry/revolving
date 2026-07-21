@@ -1,0 +1,13 @@
+name = "Glow Banners"
+filename = "Glow Banners-neoforge-2.0.0+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1de5f748f4c83efec50339741a19c3610e3804ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5894991
+project-id = 508940

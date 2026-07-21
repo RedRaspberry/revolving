@@ -1,0 +1,14 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "create_aeronautics_ftb_chunks:main"
+    ],
+    "icon": "create_aeronautics_ftb_chunks:contraption_claim_block",
+    "remove_items": [],
+    "add_items": [
+      "create_aeronautics_ftb_chunks:contraption_claim_block"
+    ],
+    "order": []
+  }
+]

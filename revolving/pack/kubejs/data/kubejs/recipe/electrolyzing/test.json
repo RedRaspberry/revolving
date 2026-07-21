@@ -1,0 +1,21 @@
+{
+  "type": "petrochem:electrolyzing",
+  "ingredients": [
+    {
+      "type": "destroy:mixture_with_molecule",
+      "amount": 1,
+      "molecule": "destroy:water",
+      "concentration": 55.555556
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.5,
+      "id": "petrochem:salt_dust"
+    },
+    {
+      "amount": 500,
+      "id": "petrochem:desalted_oil"
+    }
+  ]
+}

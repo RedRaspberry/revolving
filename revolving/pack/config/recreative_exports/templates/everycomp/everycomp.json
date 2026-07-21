@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "everycomp:everycomp"
+    ],
+    "icon": "everycomp:all_woods",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

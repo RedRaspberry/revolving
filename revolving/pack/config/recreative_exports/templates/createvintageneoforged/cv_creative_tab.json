@@ -1,0 +1,34 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "createvintageneoforged:cv_creative_tab"
+    ],
+    "icon": "createvintageneoforged:belt_grinder",
+    "remove_items": [],
+    "add_items": [
+      "createvintageneoforged:grinder_belt",
+      "createvintageneoforged:iron_rod",
+      "createvintageneoforged:iron_spring",
+      "createvintageneoforged:netherite_sheet",
+      "createvintageneoforged:spring_coiling_machine_wheel",
+      "createvintageneoforged:convex_curving_head",
+      "createvintageneoforged:concave_curving_head",
+      "createvintageneoforged:w_shaped_curving_head",
+      "createvintageneoforged:v_shaped_curving_head",
+      "createvintageneoforged:laser_item",
+      "createvintageneoforged:helve_hammer_slot_cover",
+      "createvintageneoforged:recipe_card",
+      "createvintageneoforged:belt_grinder",
+      "createvintageneoforged:spring_coiling_machine",
+      "createvintageneoforged:vacuum_chamber",
+      "createvintageneoforged:vibrating_table",
+      "createvintageneoforged:centrifuge",
+      "createvintageneoforged:curving_press",
+      "createvintageneoforged:laser",
+      "createvintageneoforged:helve_hammer",
+      "createvintageneoforged:lathe"
+    ],
+    "order": []
+  }
+]

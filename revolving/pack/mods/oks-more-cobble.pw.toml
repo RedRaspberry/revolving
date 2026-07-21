@@ -1,0 +1,13 @@
+name = "oк's more cobble"
+filename = "oks_more_cobble-1.5.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7790f36aa7c348912aff44dd4dc1debe838b1282"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8142258
+project-id = 1520733

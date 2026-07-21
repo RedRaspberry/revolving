@@ -1,0 +1,13 @@
+name = "Refield"
+filename = "field-neoforge-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f302ea49c98ef9e7bd04acda62398f39588ffea4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8417020
+project-id = 1598574

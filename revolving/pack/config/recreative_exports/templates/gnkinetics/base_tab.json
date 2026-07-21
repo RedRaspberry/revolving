@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "gnkinetics:base_tab"
+    ],
+    "icon": "gnkinetics:hollow_large_brass_gear",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

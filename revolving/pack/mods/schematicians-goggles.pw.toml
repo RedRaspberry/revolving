@@ -1,0 +1,13 @@
+name = "Schematician's Goggles"
+filename = "schematician-0.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8d491f2a289ec94ccfec3e0922f4a55256a9ca2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8427178
+project-id = 1542643

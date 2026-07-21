@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "create_factory_logistics:create_factory_logistics_tab"
+    ],
+    "icon": "create_factory_logistics:copper_jar_package_8x8",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

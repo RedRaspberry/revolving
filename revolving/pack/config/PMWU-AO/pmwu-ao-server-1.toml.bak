@@ -1,0 +1,180 @@
+#+----------------------------------------------------------+
+#|                  EXTENDED DAYLIGHT CYCLE                 |
+#+----------------------------------------------------------+
+#Slows Minecraft's day/night cycle and (when PMWeather seasons
+#are active) applies real-world seasonal day/night proportions.
+[daylight]
+	#
+	#WHAT IT DOES:
+	#  * Slows dayTime to 1/6 speed -> each MC day = ~2 real hours
+	#    (1 MC hour = 5 real minutes).
+	#  * gameTime (redstone, mobs, crops, furnaces) is NOT slowed.
+	#  * When PMWeather's season system is on, applies asymmetric
+	#    daylight (summer ~62% day, winter ~40% day).
+	#
+	#WHEN CHANGES APPLY:
+	#  * On first server load with this enabled: applied immediately.
+	#  * Toggled at runtime: applied at the next in-game midnight
+	#    (so the sun doesn't visibly jump speed mid-day).
+	#
+	#RISKS / CAVEATS:
+	#  * Mobs that burn at daybreak survive longer — night is longer.
+	#  * Sleep skips to morning at the slower rate (normal behavior).
+	#  * Mods keying off dayTime may behave differently; anything
+	#    on gameTime is unaffected.
+	#
+	#Default: true
+	enableExtendedDaylight = true
+
+#+----------------------------------------------------------+
+#|                   NIGHT CYCLE SPEEDUP                    |
+#+----------------------------------------------------------+
+#Speeds up the night cycle so you don't have to wait through
+#long nights for daybreak.
+[night_cycle_speedup]
+	#
+	#WHAT IT DOES:
+	#  * Engages at the seasonal dusk-end (visible 'night starts')
+	#    and disengages at seasonal dawn-start (sunrise begins).
+	#    Summer nights start late (~9:30 PM), winter as early as 4 PM.
+	#  * Only the visual sun/moon/stars and dayTime-driven systems
+	#    (soundings, CU field, seasons) speed up — mobs, crops,
+	#    redstone, and active storm cycling are untouched.
+	#
+	#INTERACTION WITH STORMS:
+	#  * If storms are cycling when night begins, speedup is paused
+	#    until they finish. An OP can force-kill them via
+	#    /pmwuao night force to engage speedup immediately.
+	#
+	#EFFECTIVE NIGHT LENGTH (mid-spring / mid-autumn equinox-ish night):
+	#  * 1 (off) = ~50 real minutes
+	#  * 2       = ~25 min
+	#  * 3       = ~16 min 40 sec
+	#  * 4       = ~8 min 20 sec   (vanilla-speed night)
+	#  Summer nights are shorter, winter nights longer in proportion.
+	#
+	#Range: 1 - 4
+	#Default: 1
+	# Default: 1
+	# Range: 1 ~ 4
+	nightSpeedMultiplier = 1
+
+#+----------------------------------------------------------+
+#|                    TORNADO CYCLING                       |
+#+----------------------------------------------------------+
+#Supercell tornado family simulation. When a tornado dies
+#on a stage-3 supercell, another may spin up after an
+#occlusion gap, producing 1-8 tornadoes per parent storm.
+[cycling]
+	#
+	#WHAT IT DOES:
+	#  * Every tornado on a tracked supercell rolls a duration
+	#    (weighted 15s-7.5min, mostly 2-5min).
+	#  * When it ends, rolls a cycle chance scaled to the sounding's
+	#    SRH_0_1km and Shear_0_6km.
+	#  * If the roll succeeds, the storm enters an occlusion gap
+	#    (tornado forced off for 5-10 minutes), then PMWeather's
+	#    natural stage-3 logic spins a fresh mesocyclone.
+	#  * Per-storm cycle cap is rolled at spawn from SRH:
+	#    SRH 100 -> 1-2 cycles, SRH 300 -> 2-4, SRH 500+ -> 4-8.
+	#
+	#REQUIREMENTS:
+	#  * Soundings enabled for SRH/shear-scaled probabilities.
+	#    Without them, uses baseCycleChance only from PMWeather.
+	#
+	#RISKS / CAVEATS:
+	#  * Increases tornado activity significantly on HIGH days.
+	#  * Turn off if you want one-tornado-per-storm vanilla PMW.
+	#
+	#Default: true
+	enableTornadoCycling = true
+	#+----------------------------------------------------------+
+	#|             TORNADO CYCLING - BASE PROBABILITIES         |
+	#+----------------------------------------------------------+
+	#HOW IT WORKS:
+	#  * Starting chance at cycle 0. Each successive cycle is
+	#    multiplied by a decay factor (0.65 per cycle), so
+	#    longer families get exponentially harder.
+	#  * Environment (SRH, shear) does NOT factor in — this is
+	#    a pure progressive-difficulty scale.
+	#
+	#DISTRIBUTION AT DEFAULT (base 0.75, decay 0.65, cap 4):
+	#  Tornado count      Probability
+	#    1 tornado          25.0%
+	#    2 tornadoes        38.4%  (most common)
+	#    3 tornadoes        25.0%
+	#    4 tornadoes         9.2%
+	#    5 tornadoes (cap)   2.4%  (jackpot)
+	#
+	#TUNING GUIDE:
+	#  * 0.75 (default) — 2 tornado mode, 5-tornado families rare.
+	#  * 0.50 — very short; most storms end after 1 tornado.
+	#  * 0.95 — longer; 4-5 tornado families much more common.
+	#
+	#Range: 0.0 - 1.0
+	#Default: 0.75
+	# Default: 0.75
+	# Range: 0.0 ~ 1.0
+	baseCycleChance = 0.75
+	#+----------------------------------------------------------+
+	#|             TORNADO CYCLING - MAX CYCLES                 |
+	#+----------------------------------------------------------+
+	#HOW IT WORKS:
+	#  * Absolute ceiling on cycle transitions per storm.
+	#  * A 4-cycle family = 5 tornadoes (1 initial + 4 transitions).
+	#  * Every storm rolls its length at spawn; decay probability
+	#    alone limits how far families actually go.
+	#
+	#TUNING GUIDE:
+	#  * 4 (default) — tornado families max out at 5 tornadoes.
+	#    Hitting the cap is uncommon but possible on strong days.
+	#  * 2 — short families only (up to 3 tornadoes).
+	#  * 8 — allows longer families; hitting cap is rare.
+	#
+	#Range: 1 - 15
+	#Default: 4
+	# Default: 4
+	# Range: 1 ~ 15
+	maxCycleCap = 4
+	#+----------------------------------------------------------+
+	#|          TORNADO CYCLING - MIN OCCLUSION TIME            |
+	#+----------------------------------------------------------+
+	#HOW IT WORKS:
+	#  * During occlusion the parent storm has NO tornado on the
+	#    ground while a new mesocyclone spins up.
+	#  * Each cycle rolls a gap between min and max.
+	#  * Ticks are real (20 per second). Unaffected by daylight
+	#    multiplier — a 6000-tick gap is 5 real minutes either way.
+	#
+	#TIME REFERENCE:
+	#  * 6000 ticks  = 5 minutes (default)
+	#  * 3000 ticks  = 2.5 minutes
+	#  * 12000 ticks = 10 minutes
+	#
+	#Range: 20 - 20000 ticks
+	#Default: 6000
+	# Default: 6000
+	# Range: 20 ~ 20000
+	minOcclusionTicks = 6000
+	#+----------------------------------------------------------+
+	#|          TORNADO CYCLING - MAX OCCLUSION TIME            |
+	#+----------------------------------------------------------+
+	#HOW IT WORKS:
+	#  * During occlusion the parent storm has NO tornado on the
+	#    ground while a new mesocyclone spins up.
+	#  * Each cycle rolls a gap between min and max.
+	#  * Ticks are real (20 per second). Unaffected by daylight
+	#    multiplier — a 6000-tick gap is 5 real minutes either way.
+	#
+	#TIME REFERENCE:
+	#  * 6000 ticks  = 5 minutes (default)
+	#  * 3000 ticks  = 2.5 minutes
+	#  * 12000 ticks = 10 minutes
+	#
+	#Must be greater than minOcclusionTicks.
+	#
+	#Range: 20 - 20000 ticks
+	#Default: 12000 (10 minutes)
+	# Default: 12000
+	# Range: 20 ~ 20000
+	maxOcclusionTicks = 12000

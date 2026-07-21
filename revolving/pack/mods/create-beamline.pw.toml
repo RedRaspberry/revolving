@@ -1,0 +1,13 @@
+name = "Create Beamline"
+filename = "create-beamline_neoforge-1.0.2+nfg_mc-1.21.1-cr-6.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "effaf06ad8ddc836133a921f651e51e0042872ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7954628
+project-id = 1419839

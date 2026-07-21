@@ -1,0 +1,16 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "createthrusters:lomens"
+    ],
+    "icon": "createthrusters:music_disc_kinetic_currency",
+    "remove_items": [],
+    "add_items": [
+      "createthrusters:music_disc_kinetic_currency",
+      "createthrusters:music_disc_twisted_alive",
+      "createthrusters:music_disc_unplug_the_earth"
+    ],
+    "order": []
+  }
+]

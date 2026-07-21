@@ -1,0 +1,13 @@
+name = "Spelunker's Palette"
+filename = "spelunkerspalette-1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OWNJpWZE/versions/IEr3s4Qq/spelunkerspalette-1.4.4.jar"
+hash-format = "sha512"
+hash = "982539dfad8635e39f99f7402ec425d28556ed2707d36de36ee8ac3546020372c0ea1931bb4dba7fc81c25167688429992dc07453512bf0d8b216a36e0d1e4ce"
+
+[update]
+[update.modrinth]
+mod-id = "OWNJpWZE"
+version = "IEr3s4Qq"

@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "dimdoors:decay"
+    ],
+    "icon": "dimdoors:unraveled_fence",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

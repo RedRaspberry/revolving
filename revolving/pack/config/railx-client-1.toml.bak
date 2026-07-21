@@ -1,0 +1,12 @@
+[common]
+	#Displays precise information about track blocks, curves, and track placement.
+	precise_overlay = true
+
+[flexi_trak]
+	#Specify how wide placement overlays are shown.
+	# Default: 3
+	# Range: 0 ~ 7
+	overlay_width = 3
+	#Whether hold or toggle to enable/disable flexible placement.
+	#Allowed Values: Hold, Toggle
+	flexible_selection = "Hold"

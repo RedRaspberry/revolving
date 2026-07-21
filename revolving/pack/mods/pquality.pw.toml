@@ -1,0 +1,16 @@
+name = "pquality"
+filename = "pquality-1.21.1-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0df918b3e42d4e80619e4bf646ec48907e2e9907"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8314410
+project-id = 1186938
+
+[option]
+optional = true

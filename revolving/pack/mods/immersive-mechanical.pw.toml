@@ -1,0 +1,16 @@
+name = "Immersive Mechanical"
+filename = "immersive_mechanical-2101.0.0-pre5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64e4268d9b69747b431923999d685825ef242a13"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8417355
+project-id = 1582996
+
+[option]
+optional = true

@@ -1,0 +1,13 @@
+name = "Gilded Sherds"
+filename = "gildedsherds-neoforge-1.21.1-21.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aaa9d92a0afa55a12e570b645925b985256b0e4b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7115345
+project-id = 935749

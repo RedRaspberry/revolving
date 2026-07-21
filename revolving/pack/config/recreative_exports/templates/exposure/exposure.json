@@ -1,0 +1,29 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "exposure:exposure"
+    ],
+    "icon": "exposure:camera",
+    "remove_items": [],
+    "add_items": [
+      "exposure:camera",
+      "exposure:camera_stand",
+      "exposure:black_and_white_film",
+      "exposure:color_film",
+      "exposure:high_sensitivity_black_and_white_film",
+      "exposure:high_sensitivity_color_film",
+      "exposure:developed_black_and_white_film",
+      "exposure:developed_color_film",
+      "exposure:photograph",
+      "exposure:aged_photograph",
+      "exposure:stacked_photographs",
+      "exposure:album",
+      "exposure:photograph_frame",
+      "exposure:glass_photograph_frame",
+      "exposure:interplanar_projector",
+      "exposure:lightroom"
+    ],
+    "order": []
+  }
+]

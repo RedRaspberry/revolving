@@ -1,0 +1,22 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "linearbearing:linear_bearing_tab"
+    ],
+    "icon": "linearbearing:linear_bearing",
+    "remove_items": [],
+    "add_items": [
+      "linearbearing:linear_bearing",
+      "linearbearing:linear_casing",
+      "linearbearing:torsional_anchor",
+      "linearbearing:magnetic_port",
+      "linearbearing:andesite_lamp",
+      "linearbearing:redstone_converter",
+      "linearbearing:gyroscopic_gearbox",
+      "linearbearing:slippery_copycat",
+      "linearbearing:bubble_gum_block"
+    ],
+    "order": []
+  }
+]

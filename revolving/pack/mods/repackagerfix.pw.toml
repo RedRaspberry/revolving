@@ -1,0 +1,13 @@
+name = "Create: Factory Logistics - Re-Packager Fix"
+filename = "repackagerfix-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fb38a22d1916e421c00d9428b7083238aed6074"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7945160
+project-id = 1517676

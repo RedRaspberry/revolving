@@ -1,0 +1,33 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "paraglider:paraglider"
+    ],
+    "icon": "paraglider:paraglider",
+    "remove_items": [],
+    "add_items": [
+      "paraglider:paraglider",
+      "paraglider:deku_leaf",
+      "paraglider:heart_container",
+      "paraglider:stamina_vessel",
+      "paraglider:spirit_orb",
+      "paraglider:anti_vessel",
+      "paraglider:essence",
+      "paraglider:energizing_elixir_1",
+      "paraglider:energizing_elixir_2",
+      "paraglider:energizing_elixir_3",
+      "paraglider:enduring_elixir_1",
+      "paraglider:enduring_elixir_2",
+      "paraglider:enduring_elixir_3",
+      "paraglider:energizing_mixture",
+      "paraglider:enduring_mixture",
+      "paraglider:goddess_statue",
+      "paraglider:kakariko_goddess_statue",
+      "paraglider:goron_goddess_statue",
+      "paraglider:rito_goddess_statue",
+      "paraglider:horned_statue"
+    ],
+    "order": []
+  }
+]

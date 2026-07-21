@@ -1,0 +1,46 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "immersivepetroleum:immersivepetroleum"
+    ],
+    "icon": "immersivepetroleum:crudeoil_bucket",
+    "remove_items": [],
+    "add_items": [
+      "immersivepetroleum:crudeoil_bucket",
+      "immersivepetroleum:diesel_sulfur_bucket",
+      "immersivepetroleum:diesel_bucket",
+      "immersivepetroleum:lubricant_bucket",
+      "immersivepetroleum:gasoline_bucket",
+      "immersivepetroleum:naphtha_bucket",
+      "immersivepetroleum:benzol_bucket",
+      "immersivepetroleum:petroleum_gas_bucket",
+      "immersivepetroleum:kerosene_bucket",
+      "immersivepetroleum:napalm_bucket",
+      "immersivepetroleum:seismic_survey",
+      "immersivepetroleum:gas_generator",
+      "immersivepetroleum:auto_lubricator",
+      "immersivepetroleum:flarestack",
+      "immersivepetroleum:asphalt",
+      "immersivepetroleum:petcoke_block",
+      "immersivepetroleum:paraffin_wax_block",
+      "immersivepetroleum:asphalt_slab",
+      "immersivepetroleum:asphalt_stair",
+      "immersivepetroleum:projector",
+      "immersivepetroleum:speedboat",
+      "immersivepetroleum:oil_can",
+      "immersivepetroleum:bitumen",
+      "immersivepetroleum:petcoke",
+      "immersivepetroleum:petcoke_dust",
+      "immersivepetroleum:paraffin_wax",
+      "immersivepetroleum:gasoline_bottle",
+      "immersivepetroleum:molotov",
+      "immersivepetroleum:upgrade_reinforced_hull",
+      "immersivepetroleum:upgrade_icebreaker",
+      "immersivepetroleum:upgrade_tank",
+      "immersivepetroleum:upgrade_rudders",
+      "immersivepetroleum:upgrade_paddles"
+    ],
+    "order": []
+  }
+]

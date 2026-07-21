@@ -1,0 +1,13 @@
+name = "Create: Jukebox Displays"
+filename = "createnowplaying.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de4e5e5e6a853e5235ee303d21fd1c9546da106e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7999322
+project-id = 1526648

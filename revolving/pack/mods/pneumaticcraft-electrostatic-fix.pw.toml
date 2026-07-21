@@ -1,0 +1,13 @@
+name = "PneumaticCraft Electrostatic Fix"
+filename = "pnc_electrostatic_fix-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "934fd44cdbee05f115cfebf1cda20220d52362fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7802649
+project-id = 1493981

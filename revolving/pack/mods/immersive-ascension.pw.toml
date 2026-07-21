@@ -1,0 +1,13 @@
+name = "Immersive Ascension"
+filename = "immersive_ascension-0.2-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2af4cf48f818aa04306c96ae22a82e671b8b57ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8384405
+project-id = 1483851

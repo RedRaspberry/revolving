@@ -1,0 +1,18 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"just_blahaj:trans_blahaj"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"just_blahaj:orange_blahaj"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"just_blahaj:purple_blahaj"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"just_blahaj:enby_blahaj"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"just_blahaj:magenta_blahaj"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"just_blahaj:panhaj"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"just_blahaj:brown_blahaj"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"just_blahaj:red_blahaj"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_blahaj_factory:plushie_stuffing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"destroy:blank_music_disc"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:disc_fragment_5"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createthrusters:music_disc_kinetic_currency"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:jukebox"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createthrusters:contraption_network_linker"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

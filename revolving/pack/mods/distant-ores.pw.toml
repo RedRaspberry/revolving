@@ -1,0 +1,13 @@
+name = "Distant Ores"
+filename = "distantores-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb12d225d6c833c1e67218f8415ccb6f2df70c0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7964322
+project-id = 1521241

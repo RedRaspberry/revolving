@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "dashpanels:dashpanels"
+    ],
+    "icon": "dashpanels:control_panel",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

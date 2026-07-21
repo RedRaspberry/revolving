@@ -1,0 +1,13 @@
+name = "Cobble Gen Haters"
+filename = "Cobble-Gen-Haters-1.21-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d98387f42db468f5cfa5072ff7c1a45882c45372"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5432830
+project-id = 305797

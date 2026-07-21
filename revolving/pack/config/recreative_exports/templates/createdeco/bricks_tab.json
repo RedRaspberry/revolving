@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "createdeco:bricks_tab"
+    ],
+    "icon": "createdeco:blue_bricks",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

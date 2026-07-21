@@ -1,0 +1,16 @@
+name = "Continents"
+filename = "Continents_26.2_v1.1.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c2f1a5483b453b5cdb341da3aa36670d402336d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8396863
+project-id = 682515
+
+[option]
+optional = true

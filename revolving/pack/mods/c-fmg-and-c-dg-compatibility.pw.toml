@@ -1,0 +1,13 @@
+name = "C: FMG and C: DG Compatibility"
+filename = "cfmgandcdgcombatability-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4OOZmRWy/versions/F11TnUH5/cfmgandcdgcombatability-5.0.0.jar"
+hash-format = "sha512"
+hash = "e910c91dec3e8c6eb4b6e45495541e084b7980f326e128515c9f047171d3563864e2755bd8dbbb0639625caaae54e8a7762e2da4b2df25d172ae77f8f68894c6"
+
+[update]
+[update.modrinth]
+mod-id = "4OOZmRWy"
+version = "F11TnUH5"

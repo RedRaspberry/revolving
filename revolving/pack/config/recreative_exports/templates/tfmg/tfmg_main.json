@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "tfmg:tfmg_main"
+    ],
+    "icon": "tfmg:steel_mechanism",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

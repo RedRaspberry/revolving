@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "would:would"
+    ],
+    "icon": "would:ebony_log",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

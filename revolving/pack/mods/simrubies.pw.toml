@@ -1,0 +1,16 @@
+name = "Create Aeronautics: Rubies"
+filename = "simulatedrubies-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20209a024745f9a3afdc55b30fc7974d32a81892"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8457145
+project-id = 1615024
+
+[option]
+optional = true

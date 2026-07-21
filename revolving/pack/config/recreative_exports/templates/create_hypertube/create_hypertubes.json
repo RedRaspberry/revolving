@@ -1,0 +1,12 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "create_hypertube:create_hypertubes"
+    ],
+    "icon": "create_hypertube:hypertube",
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  }
+]

@@ -1,0 +1,13 @@
+name = "Banner Capes ReForged"
+filename = "bannercapes-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92aa92eb1d551064b4faa09578b3006c23fd5811"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7158323
+project-id = 1366188

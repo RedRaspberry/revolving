@@ -1,0 +1,6 @@
+{
+  "show_builtin": true,
+  "show_kubejs": false,
+  "hide_used": true,
+  "manager_source_filter": "all"
+}

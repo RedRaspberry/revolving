@@ -1,0 +1,100 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "createthrusters:main"
+    ],
+    "icon": "createthrusters:thruster",
+    "remove_items": [],
+    "add_items": [
+      "createthrusters:thruster",
+      "createthrusters:small_thruster",
+      "createthrusters:fuel_oxidizer",
+      "createthrusters:alternator",
+      "createthrusters:andesite_cable",
+      "createthrusters:industrial_motor",
+      "createthrusters:variable_transmission",
+      "createthrusters:vertical_variable_transmission",
+      "createthrusters:physics_gantry_shaft",
+      "createthrusters:physics_gantry_belt_wheel",
+      "createthrusters:physics_gantry_carriage",
+      "createthrusters:claw",
+      "createthrusters:powered_zipline",
+      "createthrusters:thruster_bearing",
+      "createthrusters:aileron_bearing",
+      "createthrusters:vector_bearing",
+      "createthrusters:scissor_piston",
+      "createthrusters:gyroscope_link",
+      "createthrusters:bidirectional_gearbox",
+      "createthrusters:bi_directional_gearshift",
+      "createthrusters:vertical_bidirectional_gearbox",
+      "createthrusters:analogue_joystick",
+      "createthrusters:analogue_contraption_controller",
+      "createthrusters:advanced_contraption_controller",
+      "createthrusters:advanced_navigation_table",
+      "createthrusters:shipping_manifest",
+      "createthrusters:portable_contraption_controller",
+      "createthrusters:advanced_portable_contraption_controller",
+      "createthrusters:contraption_network_linker",
+      "createthrusters:configuration_clipboard",
+      "createthrusters:entity_launcher",
+      "createthrusters:thruster_lense",
+      "createthrusters:scissor_arms",
+      "createthrusters:oxidized_creative_blaze_cake",
+      "createthrusters:processing_upgrade_smoking_t1",
+      "createthrusters:processing_upgrade_smelting_t1",
+      "createthrusters:processing_upgrade_haunting_t1",
+      "createthrusters:processing_upgrade_smoking_t2",
+      "createthrusters:processing_upgrade_smelting_t2",
+      "createthrusters:processing_upgrade_haunting_t2",
+      "createthrusters:processing_upgrade_smoking_t3",
+      "createthrusters:processing_upgrade_smelting_t3",
+      "createthrusters:processing_upgrade_haunting_t3",
+      "createthrusters:processing_upgrade_smoking_t4",
+      "createthrusters:processing_upgrade_smelting_t4",
+      "createthrusters:processing_upgrade_haunting_t4",
+      "createthrusters:propulsion_upgrade_t1",
+      "createthrusters:propulsion_upgrade_t2",
+      "createthrusters:propulsion_upgrade_t3",
+      "createthrusters:propulsion_upgrade_t4",
+      "createthrusters:physics_goggles",
+      "createthrusters:physics_staff",
+      {
+        "item": "createthrusters:player_mannequin",
+        "components": {
+          "createthrusters:player_mannequin_variant": "riieno",
+          "minecraft:item_name": "\"Riieno\""
+        }
+      },
+      {
+        "item": "createthrusters:player_mannequin",
+        "components": {
+          "createthrusters:player_mannequin_variant": "bigjim",
+          "minecraft:item_name": "\"BigJim\""
+        }
+      },
+      {
+        "item": "createthrusters:player_mannequin",
+        "components": {
+          "createthrusters:player_mannequin_variant": "christeroph",
+          "minecraft:item_name": "\"Christeroph\""
+        }
+      },
+      {
+        "item": "createthrusters:player_mannequin",
+        "components": {
+          "createthrusters:player_mannequin_variant": "rayray",
+          "minecraft:item_name": "\"RayRay\""
+        }
+      },
+      {
+        "item": "createthrusters:player_mannequin",
+        "components": {
+          "createthrusters:player_mannequin_variant": "djrag",
+          "minecraft:item_name": "\"Djrag\""
+        }
+      }
+    ],
+    "order": []
+  }
+]

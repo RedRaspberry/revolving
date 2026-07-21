@@ -1,0 +1,25 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "just_blahaj:just_blahaj_pride"
+    ],
+    "icon": "just_blahaj:pride_blahaj",
+    "remove_items": [],
+    "add_items": [
+      "just_blahaj:trans_blahaj",
+      "just_blahaj:pride_blahaj",
+      "just_blahaj:intersex_blahaj",
+      "just_blahaj:bi_blahaj",
+      "just_blahaj:panhaj",
+      "just_blahaj:lesbian_blahaj",
+      "just_blahaj:gay_blahaj",
+      "just_blahaj:enby_blahaj",
+      "just_blahaj:gender_fluid_blahaj",
+      "just_blahaj:ace_blahaj",
+      "just_blahaj:aromantic_blahaj",
+      "just_blahaj:aroace_blahaj"
+    ],
+    "order": []
+  }
+]

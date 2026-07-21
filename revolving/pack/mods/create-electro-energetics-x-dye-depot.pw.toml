@@ -1,0 +1,13 @@
+name = "Create: Electro Energetics x Dye Depot"
+filename = "CEE-Dye-Depot-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c14e11b9a0548ff30b2b7de59949a9f26d9fad0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8434026
+project-id = 1610623

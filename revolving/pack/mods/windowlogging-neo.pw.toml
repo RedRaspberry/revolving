@@ -1,0 +1,13 @@
+name = "Windowlogging Neo"
+filename = "windowlogging-mc1.21.1_v0.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92c416acb79f6102f3c66a6510cdc2f1856f2fa5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7957000
+project-id = 1519982
