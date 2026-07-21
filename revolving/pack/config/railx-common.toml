@@ -1,3 +1,0 @@
-[common]
-	#Marks reserved signals with green color in nixie tube, instead of red. If disabled for server side, does not displayed even if enabled for client.
-	reserved_signal = false
