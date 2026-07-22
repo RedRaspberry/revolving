@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fml.toml"
+hash = "140967133f4008b08dd68f3bfbd116096a84558f6ab3555dfc6779472aa744ac"
+
+[[files]]
+file = "config/tmrv_plugins.json5"
+hash = "369e31992a07987edaab536f66e461e580d9d8358b810305a0d0eda618a7244d"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -725,9 +733,8 @@ hash = "07ed4f948b6d9829a28247f9f92774e823b5e26a0be7a8647fc745a33b826762"
 metafile = true
 
 [[files]]
-file = "mods/destroy.pw.toml"
-hash = "5cd2c580f2b05fd10922fa680fe9cc41297a69e87833c308c3749f03947c8388"
-metafile = true
+file = "mods/destroy-1.21.1-0.3.10.jar"
+hash = "c990d485eef94b0e369678f350df93a222e5d5ddaaff052e1a85be4971254919"
 
 [[files]]
 file = "mods/dimensionaldoors.pw.toml"

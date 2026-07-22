@@ -1,0 +1,13 @@
+{
+	"allowDefaultAsync": null,
+	"defaultDisableDuplicatePlugins": true,
+	"typeOverrides": {
+		"destroy:jei_plugin": "NORMAL"
+	},
+	"defaultPhaseOverrides": {
+	
+	},
+	"pluginPhaseOverrides": {
+	
+	}
+}
