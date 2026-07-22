@@ -1,8 +1,15 @@
-name = "Create:Electro_Energetics"
-filename = "electroenergetics-1.21.1-1.1.2-120.jar"
+name = "Create-Electro-Energetics"
+filename = "electroenergetics-1.21.1-1.1.2-121.jar"
 side = "both"
 
 [download]
-url = "https://github.com/george8188625/Create-Electro-Energetics/releases/download/autobuild-120/electroenergetics-1.21.1-1.1.2-120.jar"
+url = "https://github.com/george8188625/Create-Electro-Energetics/releases/download/autobuild-121/electroenergetics-1.21.1-1.1.2-121.jar"
 hash-format = "sha256"
-hash = "c77c52be4fd9a30e15feb669a48dbb0e57a723db97158e1ec460693ee36eb404"
+hash = "04beab43f66c7e1a6fb8cd5af1e722177403028f93b13733ab705b016354017a"
+
+[update]
+[update.github]
+branch = "1.21.1"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "george8188625/Create-Electro-Energetics"
+tag = "autobuild-121"

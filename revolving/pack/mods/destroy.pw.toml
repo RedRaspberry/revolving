@@ -6,3 +6,10 @@ side = "both"
 url = "https://github.com/NHblock714/Destroy/releases/download/v0.3.10/destroy-1.21.1-0.3.10.jar"
 hash-format = "sha256"
 hash = "3dc6856f1b8c48c44377d13e26a56f518e5cc07e5a1303824ed3558bdd5396af"
+
+[update]
+[update.github]
+branch = "1.20.1"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "NHblock714/Destroy"
+tag = "v0.3.10"

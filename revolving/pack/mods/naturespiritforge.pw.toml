@@ -1,4 +1,4 @@
-name = "natures_spirit_lithostiched"
+name = "NatureSpiritForge"
 filename = "natures_spirit-2.3.0-1.21.1.jar"
 side = "both"
 
@@ -6,3 +6,10 @@ side = "both"
 url = "https://github.com/mosharky/NatureSpiritForge/releases/download/2.3.0/natures_spirit-2.3.0-1.21.1.jar"
 hash-format = "sha256"
 hash = "4b398a55b98894037dc69660f53ab3aaf78bcac143880f2e7f24afc7d9224c41"
+
+[update]
+[update.github]
+branch = "1.21.1"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "mosharky/NatureSpiritForge"
+tag = "2.3.0"

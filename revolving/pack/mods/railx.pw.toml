@@ -1,4 +1,4 @@
-name = "railX"
+name = "railx"
 filename = "railx-0.2.0-build.12.jar"
 side = "both"
 
@@ -6,3 +6,10 @@ side = "both"
 url = "https://github.com/lhwdev/railx/releases/download/mc1.21.1-0.2.0-build.12/railx-0.2.0-build.12.jar"
 hash-format = "sha256"
 hash = "39739d290f4faf2b36c34e1bdaa59e8451cbf6794bd697edb3ec6ea5a6b6612f"
+
+[update]
+[update.github]
+branch = "1.21"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "lhwdev/railx"
+tag = "mc1.21.1-0.2.0-build.12"

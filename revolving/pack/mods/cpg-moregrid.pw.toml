@@ -1,4 +1,4 @@
-name = "MoreGrid"
+name = "CPG_MoreGrid"
 filename = "moregrid-1.0.0.jar"
 side = "both"
 
@@ -6,3 +6,10 @@ side = "both"
 url = "https://github.com/febrvary22/CPG_MoreGrid/releases/download/Release/moregrid-1.0.0.jar"
 hash-format = "sha256"
 hash = "7f1cfacf2185aa85975a35d0f020b9bcf5c079999b4fa13b6f9237e5332d732f"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "febrvary22/CPG_MoreGrid"
+tag = "Release"

@@ -451,6 +451,11 @@ hash = "ae6aa56b0dcc6d92dda890bff9b3b638902b662f39501792fce8b879571fbffb"
 metafile = true
 
 [[files]]
+file = "mods/cpg-moregrid.pw.toml"
+hash = "7705a65df3b8f274d23a9ea5ce479e6b6646e8b3caec4a4e1e6625106fdc5439"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "e4aec65fd9c720febf3866b63f4f95c0ca03d8d79b9d09522dad9e5de18c14d8"
 metafile = true
@@ -557,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-electro-energetics.pw.toml"
-hash = "3ef5a32811f7a1c983942e5b759f0e9b257e8fa7e51fdd5fa7cd43a59f28d8e7"
+hash = "0f2b7abd4614740fd50350d9e4d9eac93335231653acba8e258530b43e82ed68"
 metafile = true
 
 [[files]]
@@ -726,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/destroy.pw.toml"
-hash = "a80a7bee6b2a4cc47cfcbacde6a6846ded157e14bd2130ff01bff3c200e8a43d"
+hash = "5cd2c580f2b05fd10922fa680fe9cc41297a69e87833c308c3749f03947c8388"
 metafile = true
 
 [[files]]
@@ -1085,11 +1090,6 @@ hash = "c315824dfe979035e9943c2d6c051cb865e5501c8e48ac96860289a8fb81a28d"
 metafile = true
 
 [[files]]
-file = "mods/moregrid.pw.toml"
-hash = "94ebb242bab565a451c46c98b2913a383f1eb89133d1cfbba17973ff4799be37"
-metafile = true
-
-[[files]]
 file = "mods/moretraffic.pw.toml"
 hash = "217ad131081c4fa3798a74bfe2dc192c67a0469d47bb336aa71d46d300f85bb0"
 metafile = true
@@ -1109,8 +1109,8 @@ hash = "219b4c618e492901d88c247919d3d6d95fc34ceb78128edfd7dfbda9b7bebd6e"
 metafile = true
 
 [[files]]
-file = "mods/natures-spirit-lithostiched.pw.toml"
-hash = "9156a588f3c1859b7111dbaa8d1e6753b85c6555fdaddf24d3f49557ee2396dd"
+file = "mods/naturespiritforge.pw.toml"
+hash = "58909c030f14b8371b30daf5b71fb68d637a649107eb8eb0bedc541ad562037a"
 metafile = true
 
 [[files]]
@@ -1223,7 +1223,7 @@ hash = "39739d290f4faf2b36c34e1bdaa59e8451cbf6794bd697edb3ec6ea5a6b6612f"
 
 [[files]]
 file = "mods/railx.pw.toml"
-hash = "936008549d242437298500e9d323c0dd699eb04e0c8861b56cc8b260391ff603"
+hash = "3f5bcb1e8b0fff05f4ec1092865ef624580136279557d2666b098e7b82836ba8"
 metafile = true
 
 [[files]]
