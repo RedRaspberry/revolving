@@ -1,0 +1,13 @@
+name = "Create: Buckets"
+filename = "create_buckets-1.21.1-neoforge-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "839da343f343c5ce9316e1721c09bd35460710c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8395121
+project-id = 1602689

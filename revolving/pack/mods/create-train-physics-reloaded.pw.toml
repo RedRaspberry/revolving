@@ -1,0 +1,13 @@
+name = "Create Train Physics Reloaded"
+filename = "create_train_physics-0.2.0-beta.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23f59fa58793d99875b3ed95e726ac0b44a472b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8454053
+project-id = 1607351

@@ -485,6 +485,11 @@ hash = "811b76b8d4e9e65bde15493b0e3dd72e1d19a0686d92fa02c592e4ed4c6b7c76"
 metafile = true
 
 [[files]]
+file = "mods/blocks-abound.pw.toml"
+hash = "f91cd1f2d802f9587f2ed13b380cc782518ce0471e593b5c07047cd79702ace3"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "c55fa4363fa59143627aba388dfb14546791ca58dce47c2d0521803bb5259411"
 metafile = true
@@ -630,6 +635,11 @@ hash = "4af610c14aa9717c02470569770d49216e565e98549a7356894f4caee8d7c3ae"
 metafile = true
 
 [[files]]
+file = "mods/create-buckets.pw.toml"
+hash = "a20393ce0665b5b80a987f8cea4857f6ecaa7a38c866020df459789e09c744d6"
+metafile = true
+
+[[files]]
 file = "mods/create-buzzy-bees.pw.toml"
 hash = "eb1efa5ceb721cdcc840634b391ca50be5521e8cc4d1ff08ae07f1dfa5e997c1"
 metafile = true
@@ -647,6 +657,11 @@ metafile = true
 [[files]]
 file = "mods/create-colorful-pipes.pw.toml"
 hash = "3ed4c9d52be8140d18da1677d4771f2382335e4395e7d5b03080d28e2a300800"
+metafile = true
+
+[[files]]
+file = "mods/create-compact-additions.pw.toml"
+hash = "7e00cd872a1e712745d7568ad7048a5aae96940cf11c6e6cf58913259c2ecc11"
 metafile = true
 
 [[files]]
@@ -761,7 +776,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-power-chip.pw.toml"
-hash = "fb9f12e1aa4ce2cbd2b9095ed89e028b6e5dce45c201fe6e378a5aea98757046"
+hash = "86b9e53ecb863614c071a10560a879a5af26f1e8eb3bd343011c18f060697c6a"
+metafile = true
+
+[[files]]
+file = "mods/create-powergrid-batteries.pw.toml"
+hash = "d1e9cb05976e59b46d5734b735d9ce9fa2350780f67fe03000343caca8d4ad4b"
 metafile = true
 
 [[files]]
@@ -802,6 +822,11 @@ metafile = true
 [[files]]
 file = "mods/create-train-perspective.pw.toml"
 hash = "cd53d66e8a7f112f160f98f56c9a05882c20a3cd45460c0d6149c19db377251e"
+metafile = true
+
+[[files]]
+file = "mods/create-train-physics-reloaded.pw.toml"
+hash = "6e955dad6441dd9a4257d69b22b9e57d8c9b687e395e5a118cd3aa1b1087ffbf"
 metafile = true
 
 [[files]]
@@ -1485,6 +1510,11 @@ hash = "08a0f96f09896e9214b31a4f0742d3309017e1bb661d26b1634430ed429a7eb1"
 metafile = true
 
 [[files]]
+file = "mods/the-commonwealth-mod.pw.toml"
+hash = "049a9d9aa5c53c14bd5a244be2c7326f8ef9916c923c1d0cdd7987b014113078"
+metafile = true
+
+[[files]]
 file = "mods/tmrv.pw.toml"
 hash = "d323a56389acaff215e3dc54e9db35141e8398d111644b45a970b114a29299df"
 metafile = true
@@ -1532,6 +1562,11 @@ metafile = true
 [[files]]
 file = "mods/veil-lib.pw.toml"
 hash = "7bc73d8afa34b7ddfab7d7c90ccff6f7e2a6703ed3a1e79eed6de498cd0d78f2"
+metafile = true
+
+[[files]]
+file = "mods/vintagebeams.pw.toml"
+hash = "a0ec4ed72d8c39b036d1370bfc1334479172812a08454111ac9bec808a81ed76"
 metafile = true
 
 [[files]]
