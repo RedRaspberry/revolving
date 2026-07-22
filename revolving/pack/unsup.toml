@@ -1,0 +1,51 @@
+[flavor_groups.recipe_viewer]
+name = "Recipe Viewer"
+description = "Which recipe viewer to use.\n JEI + JEI Filters will be missing a tab for the mod <em>Bricks & Mortar</em>, but is otherwise feature complete.\n EMI++ Forked & TMRV will have all mods, and all around loads faster than JEI."
+side = "client"
+
+[[flavor_groups.recipe_viewer.choices]]
+id = "jei"
+name = "JEI"
+description = "Installs JEI and JEI Filters. Some mods may be missing JEI tabs."
+
+[[flavor_groups.recipe_viewer.choices]]
+id = "emi"
+name = "EMI"
+description = "Installs EMI++ Forked and TMRV. This is the recommended setup."
+
+
+[flavor_groups.testing]
+name = "Mod Testing"
+side = "both"
+description = "Do not enable this category. The game will crash immediately."
+choices = ["testing_off","testing_on"]
+
+
+[metafile.emi]
+flavors = ["emi"]
+[metafile.emi-backport]
+flavors = ["emi"]
+[metafile.emi-recipe-sharing]
+flavors = ["emi"]
+[metafile.tmrv]
+flavors = ["emi"]
+
+[metafile.jei]
+flavors = ["jei"]
+[metafile.just-enough-recipe-sharing]
+flavors = ["jei"]
+[metafile.just-enough-filters]
+flavors = ["jei"]
+
+[metafile.petrols-parts]
+flavors = ["testing_on"]
+[metafile.pquality]
+flavors = ["testing_on"]
+[metafile.woolen-it-be-nice]
+flavors = ["testing_on"]
+[metafile.continents]
+flavors = ["testing_on"]
+[metafile.simrubies]
+flavors = ["testing_on"]
+[metafile.immersive-mechanical]
+flavors = ["testing_on"]

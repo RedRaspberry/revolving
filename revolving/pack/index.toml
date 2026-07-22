@@ -980,8 +980,23 @@ hash = "af8428daaf08a29dec8f58f71bcd9e32bf564203754f71b184f6ebb8b09a0c77"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "60744684868ba43cf41588d45412a78b95f64b2ec553b5ed627330e322952697"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-filters.pw.toml"
+hash = "5648cde148b46fac80a1993cecd239ab712ed5dce5c29e4040a9c7fdf8614bf2"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-immersive-multiblocks.pw.toml"
 hash = "cb94b5548a9ed37b278fc9a951d6bc720406650a1df8e5a7b0319a646379ca3d"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-recipe-sharing.pw.toml"
+hash = "19d4d0cb86f9c292ea55e5cd00998a44f1e726742e0d48c2651686c27aa48c6d"
 metafile = true
 
 [[files]]
@@ -1445,3 +1460,11 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "51a6f8aed4db01541a015d4d7c843e5e5bbdfe0d8011525bcada9909cbe01080"
+
+[[files]]
+file = "unsup.toml"
+hash = "f7c3bd7550d10e37842ce147d1a6e656d7cf5168a1cf1d9f4b526f6ab3ef2ccb"

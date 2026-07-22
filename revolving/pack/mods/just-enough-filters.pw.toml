@@ -1,0 +1,13 @@
+name = "Just Enough Filters (JEF)"
+filename = "justenoughfilters-3.1.5+neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "edded50f56de530ace4f5c8b40dba27947d3fe46"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8429520
+project-id = 1419713
