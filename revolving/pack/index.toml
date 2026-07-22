@@ -9,6 +9,14 @@ file = "config/createvintageneoforged-client.toml"
 hash = "589f9ad2abbc179f473055fcca3ff1bf87706f582984303e746148887baf5e2e"
 
 [[files]]
+file = "config/customwindowtitle-client.toml"
+hash = "84ea44d8593723cf2778a99d9a8ed9418dd8db9b69b602af57098be2ec025298"
+
+[[files]]
+file = "config/customwindowtitle/icon.png"
+hash = "e6398f8e15f6a0ec6db7684a0d1e99bf098e69218757a7cc335c4d65536e5a78"
+
+[[files]]
 file = "config/fml.toml"
 hash = "140967133f4008b08dd68f3bfbd116096a84558f6ab3555dfc6779472aa744ac"
 
@@ -31,6 +39,10 @@ hash = "7d93a22fd9557fef86a4170217f7ccb41ddfde7984baade3c35e7bd00d603047"
 [[files]]
 file = "config/justenoughfilters/custom_filters.json"
 hash = "1d7aba1c1b3d18dbe654a9841d01f8bb1c0c4ee16e6cc9a8d1f10258609819e8"
+
+[[files]]
+file = "config/packmenu.cfg"
+hash = "d75d95994ca590c060970fe0ccfd24a3acf38515783debdd2bb9e8a0f757756c"
 
 [[files]]
 file = "config/tmrv_plugins.json5"
@@ -1562,6 +1574,74 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
+hash = "227a32238d449c7d4e2943ab88e104e8090259a888d9a02e149272f9d7bb7b3a"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/custom.json"
+hash = "7b583bfd0067d07a9e8e31d174eb6500e5c458c414192b3f3186ce1eb9c9832c"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/language.json"
+hash = "4e3d1d2787d8bd808783905832c841dfd3ad59d2ba4323debf9f4d05dc5b29aa"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/mods.json"
+hash = "4c30e4de4627f29f7bf20391003ddeed67d43f3f74a634f49a126b7ffb786a64"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/multiplayer.json"
+hash = "a64e4ee1a65a9fdc98146b512f495fd72fd1fefba7da77b295a7d0fddde08517"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/options.json"
+hash = "6c7cbb7c966e14e3de60949595d151275c1e0d34df2f615f2fb3367d993aa861"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/quit.json"
+hash = "303c8acc08fdab89dcbac41d0d44653380a855a7077e735042cda8726273056c"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/reload.json"
+hash = "e1e07833cea9c1ceb9af6b229cac23d4fae122e7cec2698d0d374ea0b42c635d"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
+hash = "a5350098820cc964fffc222a63ef3cf09f6af7445239496ca3190abf9da157f7"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/lang/en_us.json"
+hash = "9605ac98a90ac24492b957194b0d7255b88660c91f56e25bc43f8c07f3fb6c41"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/texts/supporters.txt"
+hash = "cb253c2e846cc96175f7ce5e357f2ca635e32361a6a6eb3b4dc4bafb77d2a7bd"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
+hash = "2a85bf8d7c5fc57a746d14a03826743994b1e649cb1c793f329d2a4c716b8710"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/bg1.png"
+hash = "298bc0f67d4a60c94a1ec497ad2702d71bb7ff4cdb9eafa267f0bc60cdb3f743"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
+hash = "620620a15a328c02cddccca1b8ac6e6a3c25bf70cd61c08e9d6f602b2d5a4b4d"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/sprites/icon/reload.png"
+hash = "8363c266ab44de1aa364c96c1ea90ec57307ddce6445067d022e9fe5749a5cbf"
+
+[[files]]
+file = "packmenu/resources/pack.mcmeta"
+hash = "c92d7a6dc58ca7168bda2dfc3cc0a5acde7af7a4d2134ec54d2014ecf47d9928"
+
+[[files]]
+file = "packmenu/resources/pack.png"
+hash = "db4ba9188052b75c67fe536e5e7fc127499611abcb98b3542cf79a450fa13ece"
 
 [[files]]
 file = "unsup.ini"
