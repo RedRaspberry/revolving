@@ -456,11 +456,6 @@ hash = "7705a65df3b8f274d23a9ea5ce479e6b6646e8b3caec4a4e1e6625106fdc5439"
 metafile = true
 
 [[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "e4aec65fd9c720febf3866b63f4f95c0ca03d8d79b9d09522dad9e5de18c14d8"
-metafile = true
-
-[[files]]
 file = "mods/create-additional-logistics.pw.toml"
 hash = "69c4dc4b705aaafc29a626b220950dd5f8d09712b379db2f7579e850656eea20"
 metafile = true
@@ -986,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "60744684868ba43cf41588d45412a78b95f64b2ec553b5ed627330e322952697"
+hash = "f694f3683906abc6683aa41d32dc5266f199c8e32c248d73a898909a7f3979b6"
 metafile = true
 
 [[files]]
