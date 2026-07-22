@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "f08cad517eccfe96aa2a3f56f67827d14b756563134b9e4a1aecd82ea7b81c76"
+
+[[files]]
+file = "config/createvintageneoforged-client.toml"
+hash = "589f9ad2abbc179f473055fcca3ff1bf87706f582984303e746148887baf5e2e"
+
+[[files]]
 file = "config/fml.toml"
 hash = "140967133f4008b08dd68f3bfbd116096a84558f6ab3555dfc6779472aa744ac"
 
