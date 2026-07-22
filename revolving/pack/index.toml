@@ -1088,7 +1088,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f694f3683906abc6683aa41d32dc5266f199c8e32c248d73a898909a7f3979b6"
+hash = "60744684868ba43cf41588d45412a78b95f64b2ec553b5ed627330e322952697"
 metafile = true
 
 [[files]]
@@ -1565,7 +1565,7 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "51a6f8aed4db01541a015d4d7c843e5e5bbdfe0d8011525bcada9909cbe01080"
+hash = "12dcf63e7c25cc0d28cde942ce8133c2c35bfa4293d30a67597eba2e20ecfdde"
 
 [[files]]
 file = "unsup.toml"
