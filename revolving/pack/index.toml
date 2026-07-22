@@ -45,6 +45,10 @@ file = "config/packmenu.cfg"
 hash = "d75d95994ca590c060970fe0ccfd24a3acf38515783debdd2bb9e8a0f757756c"
 
 [[files]]
+file = "config/supplementaries-client.toml"
+hash = "3d184d4a56a441274bfd79c4c501e26477bc88806071578bcee2669c406395f3"
+
+[[files]]
 file = "config/tmrv_plugins.json5"
 hash = "369e31992a07987edaab536f66e461e580d9d8358b810305a0d0eda618a7244d"
 
