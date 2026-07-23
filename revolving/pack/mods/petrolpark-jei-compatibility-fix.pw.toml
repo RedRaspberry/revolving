@@ -1,0 +1,13 @@
+name = "[Temporary] Petrolpark JEI Compatibility Fix"
+filename = "petrolpapetrolpartjeifix-1.0.1c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "924ef4d9e490678f81f480493e258047f3a57966"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8484217
+project-id = 1615352

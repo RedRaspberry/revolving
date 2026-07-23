@@ -36,6 +36,8 @@ flavors = ["jei"]
 flavors = ["jei"]
 [metafile.just-enough-filters]
 flavors = ["jei"]
+[metafile.petrolpark-jei-compatibility-fix]
+flavors = ["jei"]
 
 [metafile.petrols-parts]
 flavors = ["testing_on"]
