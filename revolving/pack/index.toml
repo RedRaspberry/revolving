@@ -1305,7 +1305,7 @@ metafile = true
 
 [[files]]
 file = "mods/petrolpark-library.pw.toml"
-hash = "8c8b9085b7a6378267f5ad1dd778bbf5c1a1ea6f4c12240599a6635dc6b388ef"
+hash = "31c4c358f0cf66467057eb7def3bf0711e9b1aaf6f203074afad91456f2bfb9a"
 metafile = true
 
 [[files]]
