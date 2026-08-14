@@ -1,0 +1,13 @@
+name = "Azimuth API"
+filename = "azimuth-1.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a8fc1b64186fea924b7ba35c2dbed46294826c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8620123
+project-id = 1466331

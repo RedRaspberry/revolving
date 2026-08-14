@@ -472,6 +472,11 @@ hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
+file = "mods/azimuth-api.pw.toml"
+hash = "b03e802803ed8a807c85b08a5eaa576be23390e310d103f92e645e33a373ba66"
+metafile = true
+
+[[files]]
 file = "mods/banner-capes-reforged.pw.toml"
 hash = "90972dd15ec7a8ff5f05f2847d41ca1a58057fa15c1225bd0c75e8eddc32131c"
 metafile = true
@@ -737,11 +742,6 @@ hash = "92ce64f9fcb96a121d0bec1a666e055b9f839b236abb5f1d456b0aab0bd405a4"
 metafile = true
 
 [[files]]
-file = "mods/create-industry.pw.toml"
-hash = "27ba9439d6b25314cfca911c474a9a34933dc7a25b4ee42ae3f2782f8d03b676"
-metafile = true
-
-[[files]]
 file = "mods/create-jukebox-displays.pw.toml"
 hash = "d7e1277dc306010f7784fdc4511ed1cac6662d44b8d2b0871f36acda05523d12"
 metafile = true
@@ -814,6 +814,11 @@ metafile = true
 [[files]]
 file = "mods/create-sound-of-steam.pw.toml"
 hash = "87a280b3f1851afa3300fa8f238fad2d1b4516e48886df1dcd19ff3d595fe616"
+metafile = true
+
+[[files]]
+file = "mods/create-tfmg-ce.pw.toml"
+hash = "b49adb35f5c8df2819442631f07575c86b738fcee53be9d838c81f194c5d2f29"
 metafile = true
 
 [[files]]
@@ -1504,6 +1509,11 @@ metafile = true
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
 hash = "e396843e07975f24202b49c59d9935c2dac8a0c798e477fb58635405c1b7a5ff"
+metafile = true
+
+[[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "4de4f3afa981a2bf84c58fc748a08c9813d37f8cecd364678fa6a430316d042a"
 metafile = true
 
 [[files]]
