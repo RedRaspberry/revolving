@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/azimuth-api.pw.toml"
-hash = "b03e802803ed8a807c85b08a5eaa576be23390e310d103f92e645e33a373ba66"
+hash = "4dd77da4f3e9552582a0602572ded03bc682e00552806f4236529c1be0d6887c"
 metafile = true
 
 [[files]]
@@ -638,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "6c72a9fddc5fe835ab7084e11dc97bfd70ff28b9a37dc242a1907366ee7bf7a6"
+hash = "4c7a156e8b068ebc5a574571f32cd04e6a53bcea0c3aa3523e958bb347b914d2"
 metafile = true
 
 [[files]]
@@ -936,7 +936,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-backport.pw.toml"
-hash = "ffca17e2f1fb2831a88e3369d52684ed9137d455d05970114cd094b936545f71"
+hash = "f6c75e153c898b969bb363336ee3302ad40da0ad7892b5f54fa57fd59e1de3c9"
 metafile = true
 
 [[files]]
@@ -956,7 +956,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "9e808c1647e29fde564148337ecde37f7c6a183f38ec192d4e3854ee715a5467"
+hash = "755fdc3f22b651ecb7e8745f7ded002621bc76054207d5a66ae9cb2e5f8322f0"
 metafile = true
 
 [[files]]
@@ -1340,7 +1340,7 @@ metafile = true
 
 [[files]]
 file = "mods/power-grid.pw.toml"
-hash = "94f92fecc2a48a76f3fa40672343d676e4b2aac2a905949b4decb7f5aaa37aea"
+hash = "8eccacbcc9c2d57edaa7a72fde1dead4dc66b1dbcdeb43b9c1e223fd45e6e0e0"
 metafile = true
 
 [[files]]
@@ -1593,7 +1593,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista.pw.toml"
-hash = "d5359c6711fd654a85b4f06ffe546d92b0428fd2824a5ad2acf84674ad57606b"
+hash = "b260d26e668c139971b72e6c26780f3d38809865cd438d3727c9711a2dbcb563"
 metafile = true
 
 [[files]]
