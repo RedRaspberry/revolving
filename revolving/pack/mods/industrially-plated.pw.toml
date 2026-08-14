@@ -1,13 +1,13 @@
 name = "Industrially Plated"
-filename = "industrially_plated-1.0.0.jar"
+filename = "industrially_plated-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "334b0cdc00381b4158a32cca40d92a1fd2f0df37"
+hash = "623eb3661ece0ce94579f1113842eb2229d2e3e5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7451915
+file-id = 8512941
 project-id = 1427452
