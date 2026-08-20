@@ -492,11 +492,6 @@ hash = "efb4ebcba4d2a91fc847fb23d28d490b0cb1e4b61eccc961b9c6393a9fa93baa"
 metafile = true
 
 [[files]]
-file = "mods/betterdays.pw.toml"
-hash = "72ca919be55dd04a4d8369ef530427382fe6c4e6df35c4d3d67fbf0ff365622f"
-metafile = true
-
-[[files]]
 file = "mods/block-runner.pw.toml"
 hash = "811b76b8d4e9e65bde15493b0e3dd72e1d19a0686d92fa02c592e4ed4c6b7c76"
 metafile = true
@@ -1065,11 +1060,6 @@ hash = "3e7678d56426a61b7f67a2f6e8e50dc1d5c3b27a6a82a772990b3eec3ca8e150"
 metafile = true
 
 [[files]]
-file = "mods/ihmt.pw.toml"
-hash = "1333668929cdc876eae3649df7d52ce72df1917c905adda2d798483363b8f9b8"
-metafile = true
-
-[[files]]
 file = "mods/immersive-ascension.pw.toml"
 hash = "5dec00b83edd388c074178b4de4d5cf0767d2cdddfc36d06b3d6a32a4d6ea310"
 metafile = true
@@ -1195,11 +1185,6 @@ hash = "d635496bdc3caee4c80ef332c6c25b0c6bc3b6476f8af83618aee07d90bb6915"
 metafile = true
 
 [[files]]
-file = "mods/legends-missing-blocks.pw.toml"
-hash = "fd5554468e9f258884768ba8f6bd4839ea518348deb24d8a72150d79cfe410f3"
-metafile = true
-
-[[files]]
 file = "mods/linear-bearing.pw.toml"
 hash = "e92248ff7e47d94175ee315550946858967e9f1076653468a1d10a6aa53a4d82"
 metafile = true
@@ -1259,11 +1244,6 @@ hash = "b974ecbbb7bcf8af77f38b9bc706339fe88e1da5cd178e01135462570e3546cb"
 metafile = true
 
 [[files]]
-file = "mods/natural-temperature.pw.toml"
-hash = "794def488e83778bd67deb9fa815c0fdb754cdc6c24b4ecfade3c07ea552d80c"
-metafile = true
-
-[[files]]
 file = "mods/naturespiritforge.pw.toml"
 hash = "58909c030f14b8371b30daf5b71fb68d637a649107eb8eb0bedc541ad562037a"
 metafile = true
@@ -1274,18 +1254,8 @@ hash = "1b693100ab36f8b0422b5ec91b285df00dba2b616bdd4cd882cde3571d373e5c"
 metafile = true
 
 [[files]]
-file = "mods/oks-more-cobble.pw.toml"
-hash = "e61ff6fd606cf43049df17b6d16cb76d85b50a3354a49b95660eb9abe3baf829"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
-metafile = true
-
-[[files]]
-file = "mods/oxide.pw.toml"
-hash = "5132524166877845f1966538b7db38264e892cdeecdcd08dae99cd056803c7df"
 metafile = true
 
 [[files]]
@@ -1507,11 +1477,6 @@ hash = "4acd1fcb2aff2eebf7299268de7eb74af055d50918d9202fcb4a2522512fb2a4"
 metafile = true
 
 [[files]]
-file = "mods/streams-reflowing.pw.toml"
-hash = "e396843e07975f24202b49c59d9935c2dac8a0c798e477fb58635405c1b7a5ff"
-metafile = true
-
-[[files]]
 file = "mods/strut-your-stuff.pw.toml"
 hash = "4de4f3afa981a2bf84c58fc748a08c9813d37f8cecd364678fa6a430316d042a"
 metafile = true
@@ -1557,28 +1522,8 @@ hash = "d344c4c256e854d0e919519a00244be11d5fdd65bd06cb54e856f929d0b44a98"
 metafile = true
 
 [[files]]
-file = "mods/underground-rivers.pw.toml"
-hash = "22e0ff015554f91e86362986bf53fe6d8f3a918de9f6fdbedd00295a1746bdba"
-metafile = true
-
-[[files]]
-file = "mods/unife.pw.toml"
-hash = "9a0b1fda2d6a8ad1e12fdd52c97b5f3abddb081cc6f2efd4a91972fea32474bc"
-metafile = true
-
-[[files]]
-file = "mods/vanillabackport-mob-variants-compat.pw.toml"
-hash = "af8893eef98f448528c63f2770fb6c0c6cf01891569b8bdbde0313d09c2e4df9"
-metafile = true
-
-[[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "2ed8143d74813a492685aa18210835862a6bd70789e6a0301ceb270174b51460"
-metafile = true
-
-[[files]]
-file = "mods/vb-compat.pw.toml"
-hash = "21bea199164ecdccb66b953c01ab1e06c839447c46c27307f62cb71cefa940aa"
 metafile = true
 
 [[files]]
@@ -1614,11 +1559,6 @@ metafile = true
 [[files]]
 file = "mods/woolen-it-be-nice.pw.toml"
 hash = "a0986d100ae81972a2e50a94e532b95090b572da0fbe4427257b2e7fb92af9e9"
-metafile = true
-
-[[files]]
-file = "mods/would.pw.toml"
-hash = "1686d12b7552d383b92293e2f8f3d5f4a77db4c05cea4c638eefd5588a962154"
 metafile = true
 
 [[files]]
