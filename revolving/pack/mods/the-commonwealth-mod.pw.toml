@@ -1,13 +1,13 @@
 name = "The Commonwealth Mod"
-filename = "cwl_mod-1.0.8b-neoforge-1.21.1.jar"
+filename = "cwl_mod-1.0.9-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ba9917981504eed71eb15201a05c83a86265ed84"
+hash = "e1ea213d5980871965410913c8d8317b09e2a22c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8532263
+file-id = 8699507
 project-id = 1618674

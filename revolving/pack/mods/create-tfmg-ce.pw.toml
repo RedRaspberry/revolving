@@ -1,15 +1,15 @@
 name = "Create-TFMG-CE"
-filename = "tfmg-1.21.1-1.2.3a-community.jar"
+filename = "tfmg-1.21.1-1.2.4b-community.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Metallurgists-of-Create/Create-TFMG-CE/releases/download/v1.2.3a/tfmg-1.21.1-1.2.3a-community.jar"
+url = "https://github.com/Metallurgists-of-Create/Create-TFMG-CE/releases/download/v1.2.4b/tfmg-1.21.1-1.2.4b-community.jar"
 hash-format = "sha256"
-hash = "1c62d14061c8252797543b8f7a1ca4deda87ae41f3bbade599ed161dfd2de48a"
+hash = "01a20a35db0106affcd2aaa318728e1bd1ccedf539788bddc0be7387c10f741a"
 
 [update]
 [update.github]
 branch = "1.21.1"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "Metallurgists-of-Create/Create-TFMG-CE"
-tag = "v1.2.3a"
+tag = "v1.2.4b"

@@ -1,13 +1,13 @@
 name = "Drive-By-Sable"
-filename = "drivebysable-r1.3.1-beta.jar"
+filename = "drivebysable-r1.4.1-beta.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fa2b285a556efc58a6b176aea290027abe8a484a"
+hash = "f0de6b3bd3388bbe8a3ef172568fc438bea42064"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8658954
+file-id = 8721846
 project-id = 1576519
