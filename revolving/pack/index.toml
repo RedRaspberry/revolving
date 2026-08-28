@@ -1131,7 +1131,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4520268d4ae061f16fe109c519d08d4a1bf60824fd2c8bdbda2595905ce0dd57"
+hash = "55451891665d87f6aa705f19699ccec47341e7d72eec176eb949b90128bd043c"
 metafile = true
 
 [[files]]
@@ -1378,7 +1378,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
-hash = "a0de15b4dd4e0f7e2dc5ea33c4f9951789fc84c77a782064c619038e1ed54491"
+hash = "4aa0f1548a99692e0045dc46bba7a22ddbfc1ea7eec0d4c3f79f8d1e8a8f0200"
 metafile = true
 
 [[files]]
@@ -1418,7 +1418,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e64cfe869742d68a73990c10a3e5b34c7ecec0910cda586d0d13b6633ec872e2"
+hash = "25bd3df81f1db5736274c1b7db2bc622f221b2c5dfc7e855ff4ebce345aecc30"
 metafile = true
 
 [[files]]
